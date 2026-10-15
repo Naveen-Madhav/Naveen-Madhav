@@ -15,4 +15,4 @@ Based in the United States. Open to full-time W-2 roles: remote, hybrid, or on-s
 - [HL7 Clinical Interface Implementation](https://github.com/Naveen-Madhav/hl7-clinical-interface-implementation) — Python HL7 v2 broker for registration, orders, and results, with validation, routing, and correlated acknowledgments.
 - [DICOM & VPN Imaging Integration](https://github.com/Naveen-Madhav/dicom-vpn-imaging-integration) — Local DICOM storage and forwarding demo with Orthanc and IPsec VPN deployment references.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/naveenmadhav) | [Portfolio](https://naveen-m-portfolio.vercel.app/) | [Email](mailto:naveenmadhav.pro@gmail.com)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/naveenmadhav) | [Portfolio](https://naveen-m-portfolio.vercel.app/) | [Email](mailto:naveen.contactinfo@gmail.com)
